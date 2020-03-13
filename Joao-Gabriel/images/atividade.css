@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+body {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.2em;
+}
+
+.text-title {
+    font-family: 'Dancing Script', cursive;
+    font-size: 9rem;
+    color: white;
+}
+
+.text-subtitle {
+    font-family: 'Dancing Script', cursive;
+    font-size: 8rem;
+    color: white;
+}
+
+.bg-title {
+    background-image: linear-gradient(to bottom right, #003cb3, #0fbcf9);
+}
+
+.ba-title2 {
+    background-image: linear-gradient(to bottom right, #0fbcf9, #0be881, );
+}
+
+.p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+    font-size: 1.5rem;
+}
